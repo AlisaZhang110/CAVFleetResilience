@@ -136,7 +136,7 @@ protection-coordination claim.
 
 ---
 
-## 4. Modelling choices you may want to change
+## 4. Modelling choices we may want to change
 
 * `data.py :: PDN_FAULTS`, `UTN_FAULTS` — the scenario. Only (14,15) is the paper's.
 * `data.py :: SWITCHED_LINES` — controls how tightly zones can be bounded; this is
